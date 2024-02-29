@@ -51,3 +51,22 @@ When interpreting user needs and incorporating them into a program, it is import
 How do I approach designing software?
 
 When designing software, I first look at what the what the major goals for the software are. Then I like to break up the project into smaller tasks that will eventually build up towards meeting these goals. When I actually get into coding, I am constantly testing the code that I write. If I feel like I haven't tested my code in a while, it is probably time to test it. I avoid coding large blocks of code at a time because it makes testing that portion take much longer. In addition, if there are errors within that block of code, it can be harder to pick out and find out exactly what is going wrong.
+
+
+
+
+
+CS 340 Client/Server Development Reflection
+
+How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+
+When writing programs that are maintainable, readable, and adaptable, it is important to use comments. This will make it more readable and maintainable when edits are required or when someone else is using it. The advantages of buiklding the CRUD module independently from the Project File was that I was able to reuse the code that I generated. This is a practice of object oriented programming which allowed me to code less while also keeping the code organized. By having them as separate files, it made it easy to differentiate what file was running the application and what was communicating to the database. This is very important the larger projects get.
+
+
+How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+
+When trying to solve a problem as a developer it is important to be flexible and listen to the client that you are working for. When trying to solve a problem, usually I work in small chunks, trying to solve one problem or implement one feature at a time. I then constantly test it to make sure that the feature works as intended or the problem is solved. 
+
+What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+
+Computer scientists use computers to make things easier. Like the example of Project 2, this could mean developing an application to help a company be more efficient or organize better. 
