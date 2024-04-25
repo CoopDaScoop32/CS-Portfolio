@@ -70,3 +70,28 @@ When trying to solve a problem as a developer it is important to be flexible and
 What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
 
 Computer scientists use computers to make things easier. Like the example of Project 2, this could mean developing an application to help a company be more efficient or organize better. 
+
+
+
+
+CS 255 System Analysis and Design
+
+Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+
+DriverPass was a company that provides classes, tests, driving instruction, and other services to those who are trying to get their driver's liscence. The system the wanted to be designed was a web application that helped facilitate many of the things that they provide. They wanted to provide a way for customers to be able to book appointments and take tests online.
+
+What did you do particularly well?
+
+I think I did fairly well designing the diagrams. It was a pretty straightforward process most of the time.
+
+If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+
+I would probably review the business requirments document again. I may have missed some requirements based on the DriverPass interview.
+
+How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
+
+I interpreted the users's needs from the interview that was given to me. I did my best to implement their wants and needs into the diagrams and business documents. It is important to consider the user's needs because if a user is not getting what they are needing from the system, then the system is not accomplishing its goal.
+
+How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+
+When Designing software, I think it is very important to design and plan thing sout rather than just jump into it. Having a road-map or a plan can really help in the development process, especially if you are working in a team. 
