@@ -95,3 +95,21 @@ I interpreted the users's needs from the interview that was given to me. I did m
 How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
 
 When Designing software, I think it is very important to design and plan thing sout rather than just jump into it. Having a road-map or a plan can really help in the development process, especially if you are working in a team. 
+
+
+CS 300
+
+What was the problem you were solving in the projects for this course?
+How did you approach the problem? Consider why data structures are important to understand.
+For the projects in this course, our main purpose was to take data from courses in a CSV file and convert them into our chosen data structure. We had to choose a datastructure that we though best fit what we needed to accomplish. Data structures are important to understand because each data structure has its own strengths and weaknesses and it will be important to choose the one that bests fits the problem you are trying to solve.
+
+How did you overcome any roadblocks you encountered while going through the activities or project?
+I overcame roadblocks through careful testing of my code and implementing cout statements for debugging purposes. I also had to consult some online guides on how to open and handle CSV files as input.
+
+How has your work on this project expanded your approach to designing software and developing programs?
+I've learned that considering data structures are very important to software development. choosing the correct data structure can drastically increase performance and userability.
+
+
+How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
+I've learned through my experience coding that commenting code and following a set rule of nameing conventions really helps make the code readable. I also learned the importance of making code more modular and reusable.
+

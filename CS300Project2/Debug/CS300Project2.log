@@ -1,0 +1,7 @@
+﻿  Project2.cpp
+C:\Users\coope\Desktop\Current Classes\CS300\CS300Project2\Project2.cpp(162,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\coope\Desktop\Current Classes\CS300\CS300Project2\Project2.cpp(244,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\coope\Desktop\Current Classes\CS300\CS300Project2\Project2.cpp(254,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\coope\Desktop\Current Classes\CS300\CS300Project2\Project2.cpp(295,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\coope\Desktop\Current Classes\CS300\CS300Project2\Project2.cpp(297,35): warning C4018: '<': signed/unsigned mismatch
+  CS300Project2.vcxproj -> C:\Users\coope\Desktop\Current Classes\CS300\CS300Project2\Debug\CS300Project2.exe
