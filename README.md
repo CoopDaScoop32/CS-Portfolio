@@ -113,3 +113,21 @@ I've learned that considering data structures are very important to software dev
 How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
 I've learned through my experience coding that commenting code and following a set rule of nameing conventions really helps make the code readable. I also learned the importance of making code more modular and reusable.
 
+
+
+CS 350
+
+Summarize the project and what problem it was solving.
+The problem that the final project aimed to solve was to create a thermostat with a CC3220SF board. The board has two buttons wich will simulate increasing and decreasing the temperature.
+When the temperature is low enough, a light on the board will light up, indicating that the heat is turned on.
+What did you do particularly well?
+I did well in learning the different functions and components of the board and how to utilize them to accomplish my goals.
+Where could you improve?
+I could improve on the documentation of my code and organization of my code. Sometimes I get too caught up in solving the problems that I forget to organize my code to be readable.
+What tools and/or resources are you adding to your support network?
+I will be able to add experience with working with embeddes systems to my tools, I will probably look into working on a project that involves embeddes systems in the future
+What skills from this project will be particularly transferable to other projects and/or course work?
+The skills I have gained from working with an embedded system will be very useful for future projects that involve external hardware. I almost worked on a project that would have used embedded systems
+so this knowledge would have been very important for that.
+How did you make this project maintainable, readable, and adaptable?
+I used consistent naming conventions for my variables and methods. This helped to track what variables are volatile and non-volatile.
