@@ -131,3 +131,20 @@ The skills I have gained from working with an embedded system will be very usefu
 so this knowledge would have been very important for that.
 How did you make this project maintainable, readable, and adaptable?
 I used consistent naming conventions for my variables and methods. This helped to track what variables are volatile and non-volatile.
+
+
+
+
+
+
+CS 370
+Briefly explain the work that you did on this project:
+What code were you given? What code did you create yourself?
+For the treasure-hunt project, I created code that ran a program which trained a model to navigate a maze in order to reach a particular cell (in the case of the project, this was the bottom right cell) I had to do some troubleshooting to make sure that the model was able to complete the maze starting from every possible cell available. I mainly messed around with exploration vs exploitation and the rates that the model was executing exploration vs exploitation. One thing I did that gave me the most success was implementing a decaying exploration rate to allow for the model to explore more near the beginning and less once it had gone through more games in the maze. I also trained the model by having the model start in each available cell sequentially. This was done to make sure the model was being trained on beginning in each possible space equally. I was given much of the code including the base code for the game rules and some code for storing the different episodes within the model
+
+What do computer scientists do and why does it matter?
+Computer scientists' main goal is to solve problems using computer based technologies. This is a very broad field and involves many sub-fields including software development and cyber security. Computer Scientists are important because we live in a technical age where many things can be solved with computers. It is important to have people who are able to understand, design, develop, and maintain these technologies to help improve life.
+How do I approach a problem as a computer scientist?
+As a computer scientist, I think very logicially when it comes to problems. I also always think about how it could be solved using computer systems.
+What are my ethical responsibilities to the end user and the organization?
+The ethical responsibilities of a computer scientist includes many things. One major issue today is user privacy. Companies need to be transparent with how they are collecting and utilizing user data. There are also many ethical problems when it comes to developing something in computer science. Whether it's training an intelligent model or developing a piece of software, it is important to avoid introducing biases into these things. At worst these can cause a poor expirience for a user, at worst, they can have dire consequences that could result in harm to others.
